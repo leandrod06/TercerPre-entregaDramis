@@ -1,0 +1,8 @@
+<p>Estamos buscando el: {{camada}}</p>
+<url>
+{% for curso in cursos %}
+    <li>{{curso.nombre}}</li>
+    <li>{{curso.camada}}</li>
+{% endfor %}
+</url>
+{% endif %}
