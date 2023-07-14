@@ -30,12 +30,12 @@ Allí podrán loguearse e ingresar como administrador, donde tendrán permisos p
 
 Datos para loguearse:
   ##Usuario 1
-   Username: admin
-   Password: admin1
+  - Username: admin
+  - Password: admin1
 
   ##Usuario 2
-   Username: admin2
-   Password: coderhouse
+  - Username: admin2
+  - Password: coderhouse
 
 ##cursoFormulario
 Allí podrán agregar el name y id de nuevos cursos.
